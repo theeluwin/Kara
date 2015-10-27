@@ -4,6 +4,8 @@
 <dict>
 	<key>BuildMachineOSBuild</key>
 	<string>13F34</string>
+	<key>CFBundleName</key>
+	<string>Kara</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
@@ -17,9 +19,11 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleSignature</key>
-	<string>????</string>
+	<string>theeluwin</string>
 	<key>CFBundleVersion</key>
-	<string>1.2</string>
+	<string>1.2.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.2.0</string>
 	<key>CodaAuthorString</key>
 	<string>theeluwin</string>
 	<key>CodaDescriptionString</key>
